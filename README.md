@@ -61,7 +61,7 @@ I am a final year student in IT applied to business management with strong exper
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariamourid&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="github-readme-stats-uduf.vercel.app/api/top-langs/?username=zakariamourid&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
