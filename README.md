@@ -21,11 +21,13 @@
 
 
 ### Glad to see you here!  
-I am a final year student in IT applied to business management with strong experience in software development and web development. Skilled in technologies such as Java, HTML, CSS, JavaScript, and React, as well as frameworks like Spring Boot, I have a solid foundation in full-stack development. I have also worked with database creation and management using SQL and PL/SQL, and have knowledge of analysis and design principles using UML and MERISE. I am a fast learner with a strong willingness to take on new challenges and learn new skills.  
+Hello! I'm currently immersed in my studies as a student at 1337, specializing in software engineering. Passionate about crafting innovative solutions and optimizing systems, I'm delving deep into the principles and practices of software development. . I am a fast learner with a strong willingness to take on new challenges and learn new skills.  
   
 
 <br/>  
-
+<div align="center">
+<a src="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/zmourid" alt="zmourid's 42 stats" /></a>
+<div/>
 
 ## Languages and Tools  
 <div align="center">  
